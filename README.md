@@ -1,8 +1,8 @@
 # Turborepo starter for Next.js app with Babylon.js scene
 
-This is an starter project for Babylon.js scene and Next.js app.
-The project offers approach where all 3D logic is separated in the package.
-The package with 3D logic exposes API which is used in the Next.js app. 
+This serves as an introductory project for the integration of Babylon.js scenes within a Next.js application. 
+The project is designed to employ a structured approach whereby all 3D logic is encapsulated within a dedicated package. 
+This package, responsible for housing the 3D logic, exposes a well-defined API that is subsequently employed within the Next.js application. 
 
 ## What's inside?
 
